@@ -1,21 +1,7 @@
-/*
 
-ESTRUTURA BASE
---------------------------------------------
-**** DECLARAÇÃO DE VARIAVEIS
-**** ESTILOS GERAIS
-**** BODY
-**** HEADER
-**** FOOTER
-**** PÁGINA INICIAL
-**** EXTRAS
-**** @MEDIA
 
-font-family: 'Open Sans', sans-serif;
-
-*/
-
-/* ESTILOS GERAIS */
+/*font-family: 'Open Sans', sans-serif; */
+ESTILOS GERAIS
 
 html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li, a, main{
     margin: 0;
@@ -43,13 +29,11 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 }
 
 
-/* BODY */
 body{
     font-family: 'Open Sans', sans-serif;
 }
 
 
-/* HEADER */
 header{
     background-color: var(--corBackgroundPrimaria);
     padding: 30px 30px 0;
@@ -91,7 +75,6 @@ header .coluna ul li a{
 }
 
 
-/* FOOTER */
 footer{
     background-color:var(--corBackgroundSecundaria);
 }
